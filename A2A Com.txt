@@ -1,0 +1,9 @@
+what is communication protocol?
+what is spi?
+serial peripheral interface
+
+what is 12c?
+inter-integrated circiut
+
+what is uart?
+universal asynchronous reciever transmitter
